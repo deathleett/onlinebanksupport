@@ -1,4 +1,4 @@
 <?php
-  header("Location: https://alienforex.com/web/dashboard/");
+  header("Location: https://azizestate.com/web/");
   die();
 ?>
